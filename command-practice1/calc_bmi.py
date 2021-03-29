@@ -1,3 +1,3 @@
 def get_area(weight, height):
-    area = w / h * h
+    area = weight / height * height
     return area
